@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+train_images
+test_images
+train_lables
+test_lables
+*.csv
+*-ubyte
